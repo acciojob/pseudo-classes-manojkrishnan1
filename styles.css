@@ -10,7 +10,7 @@ html{
 p:first-child{
 	color:white;
 }
-li:nth-child(2){
+:nth-child(2){
 	color:black;
 }
 p:last-child{

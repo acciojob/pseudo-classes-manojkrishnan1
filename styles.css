@@ -11,11 +11,9 @@ li:nth-child(3){
 	background-color: pink;
 }
 li:first-child{
-	background-color:white;
 	color:white;
 }
 li:last-child{
-	background-color:white;
 	color:red;
 }
 li:nth-child(even){

@@ -12,6 +12,7 @@ p:first-child{
 }
 li:nth-child(3){
 	background-color: pink;
+	color:black;
 }
 p:last-child{
 	color:red;

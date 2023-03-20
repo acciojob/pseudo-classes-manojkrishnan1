@@ -10,7 +10,7 @@ html{
 p:first-child{
 	color:white;
 }
-li:nth-child(3){
+li:nth-child(2){
 	background-color: pink;
 	color:black;
 }
